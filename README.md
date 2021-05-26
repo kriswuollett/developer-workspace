@@ -44,4 +44,4 @@ macOS | Mission Control | Application windows |  ^⎇⌘↓ | macOS 4-finger swi
 macOS | Mission Control | Move left a space |  ^⎇⌘← | macOS 4-finger swipe left
 macOS | Mission Control | Move right a space |  ^⎇⌘→ | macOS 4-finger swipe right
 macOS | Input Sources | Select the previous source in Input Menu | ^⎇⌘Space | macOS defaults conflict with common code completion shortcuts
-macOS | Input Sources | Select next source in Input Menu | _remove_ |　macOS seems to ignore this shortcut
+macOS | Input Sources | Select next source in Input Menu | _remove_ | macOS seems to ignore this shortcut
