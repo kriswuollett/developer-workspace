@@ -15,7 +15,7 @@ mouse instead of a trackpad. To accommodate these situations, one approach is to
 customize the OS-level keyboard shortcuts in a way that minimizes conflict with
 application-level keyboard shortcuts. This has the 
 
-For example in MacOS, the Mission Control keyboard shortcuts can be updated to
+For example on macOS, the Mission Control keyboard shortcuts can be updated to
 virtually match the
 [trackpad multi-touch](https://support.apple.com/en-us/HT204895) for the same.
 Similarly the Input Sources change shortcut, which normally is `Ctrl-Space`, can
@@ -30,18 +30,18 @@ The following tables contain a summary of some of the changes.
 
 Key | Description
 --- | --------------------------------------------------------------------------
-⌘ | Command (MacOS), Windows (Windows)
-⎇ | Alt, Option (MacOS)
+⌘ | Command (macOS), Windows (Windows)
+⎇ | Alt, Option (macOS)
 ^ | Control
 ⇧ | Shift
 
 Platform | Category | Shortcut | Keys | Reasoning
 -------- | -------- | -------- | ---- | ---------
-MacOS | Launchpad | Show Launchpad |  ^⎇⌘K | MacOS 4-finger swipe _**up**_, J is Vi move _**up**_
-MacOS | Mission Control | Mission Control | ^⎇⌘↑ | MacOS 4-finger swipe up
-MacOS | Mission Control | Show Notification Center | ^⎇⌘L | MacOS 2-finger _**right**_-edge to left, L is Vi move _**right**_
-MacOS | Mission Control | Application windows |  ^⎇⌘↓ | MacOS 4-finger swipe down
-MacOS | Mission Control | Move left a space |  ^⎇⌘← | MacOS 4-finger swipe left
-MacOS | Mission Control | Move right a space |  ^⎇⌘→ | MacOS 4-finger swipe right
-MacOS | Input Sources | Select the previous source in Input Menu | ^⎇⌘Space | MacOS defaults conflict with common code completion shortcuts
-MacOS | Input Sources | Select next source in Input Menu | _remove_ |　MacOS seems to ignore this shortcut
+macOS | Launchpad | Show Launchpad |  ^⎇⌘K | macOS 4-finger swipe _**up**_, J is Vi move _**up**_
+macOS | Mission Control | Mission Control | ^⎇⌘↑ | macOS 4-finger swipe up
+macOS | Mission Control | Show Notification Center | ^⎇⌘L | macOS 2-finger _**right**_-edge to left, L is Vi move _**right**_
+macOS | Mission Control | Application windows |  ^⎇⌘↓ | macOS 4-finger swipe down
+macOS | Mission Control | Move left a space |  ^⎇⌘← | macOS 4-finger swipe left
+macOS | Mission Control | Move right a space |  ^⎇⌘→ | macOS 4-finger swipe right
+macOS | Input Sources | Select the previous source in Input Menu | ^⎇⌘Space | macOS defaults conflict with common code completion shortcuts
+macOS | Input Sources | Select next source in Input Menu | _remove_ |　macOS seems to ignore this shortcut
